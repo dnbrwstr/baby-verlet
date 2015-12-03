@@ -1,6 +1,8 @@
 # Baby Verlet
 
-Toy verlet physics implementation written in javascript. 
+Toy verlet physics implementation written in javascript.
+
+[Demo](http://squishy-1.s3-website-us-east-1.amazonaws.com/)
 
 Baby Verlet is deeply indebted to: 
 * https://github.com/subprotocol/verlet-js
