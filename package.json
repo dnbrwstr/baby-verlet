@@ -1,6 +1,6 @@
 {
   "name": "baby-verlet",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "author": "Daniel Brewster <dnbrwstr@gmail.com> (http://www.danielbrewster.com/)",
